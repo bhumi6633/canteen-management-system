@@ -16,13 +16,13 @@
 
     <form class="" action="home.php" method="post">
 
-      <h1 style="color:red;" > Canteen Automation System </h1>
+      <h1 style="color:black" > Canteen Automation System </h1>
 
-      <label for="username">Username </label><br>
+      <label for="username" style="color:black">Username </label><br>
       <input type="text" id="username" name="username" placeholder="Enter UserName..." autocomplete="on"  title="It must be alphanumeric of length 5-15" autofocus required>
       <br><br>
 
-      <label for="password">Password </label><br>
+      <label for="password" style="color:black">Password </label><br>
       <input type="password" id="password" name="password" placeholder="********" autocomplete="off"  title="It must contain 8 characters containing atleast one lowercase, one uppercase and one number" required>
       <br><br>
 

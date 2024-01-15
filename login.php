@@ -68,7 +68,7 @@ border-bottom: 2px solid #f00;
 background: transparent;
 outline: none;
 height: 50px;
-color: #fff;
+color: #050000;
 font-size: 15px;
 }
 
@@ -78,7 +78,7 @@ border: none;
 outline: none;
 height: 40px;
 background: #fb2525;
-color: #fff;
+color: #050000;
 font-size: 20px;
 border-radius: 20px;
 }
@@ -94,7 +94,7 @@ color: #000;
 text-decoration: none;
 font-size: 14px;
 line-height: 25px;
-color: red;
+color: #050000;
 }
 
 .main a:hover
@@ -112,11 +112,11 @@ color: green;
 
       <h1 style="color:red;" > Canteen Delivery System </h1>
 
-      <label for="username">Username </label><br>
+      <label for="username" style="color:black;" >Username </label><br>
       <input type="text" id="username" name="userName" placeholder="Enter UserName..." autocomplete="on"  title="It must be alphanumeric of length 5-15" autofocus required>
       <br><br>
 
-      <label for="password">Password </label><br>
+      <label for="password" style="color:black;" >Password </label><br>
       <input type="password" id="password" name="password" placeholder="********" autocomplete="off" title="It must contain 8 characters containing atleast one lowercase, one uppercase and one number" required>
       <br><br>
 

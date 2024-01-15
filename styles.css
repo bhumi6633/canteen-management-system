@@ -3,7 +3,7 @@ body{
 }
 .tblLogin {
 	border: #95bee6 1px solid;
-    background: #d1e8ff;
+    background: #00060c;
     border-radius: 4px;
 }
 .tableheader {
@@ -22,7 +22,7 @@ text-align: center;
 width: 100%;
 }
 .login-input {
-	border: #CCC 1px solid;
+	border: #050000 1px solid;
     padding: 10px 20px;
 }
 .btnSubmit {
